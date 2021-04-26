@@ -41,15 +41,36 @@ $max-vw: 1408px;
 }
 
 .h2-style {
-    font-family: $manrope-light;
+    font-family: $manrope;
     font-size: 2.5rem;
     line-height: 1.2em;
     letter-spacing: 0.5px;
 }
 
 .h3-style {
+    font-family: $manrope-light;
+    font-size: 3.125rem;
+    line-height: 1.2em;
+    letter-spacing: 0.5px;
+}
+
+.h4-style {
+    font-family: $manrope-light;
+    font-size: 2.5rem;
+    line-height: 1.2em;
+    letter-spacing: 0.5px;
+}
+
+.h5-style {
     font-family: $manrope-extra-light;
-    font-size: 1.875rem;
+    font-size: 3.125rem;
+    line-height: 1.2em;
+    letter-spacing: 0.5px;
+}
+
+.h6-style {
+    font-family: $manrope-extra-light;
+    font-size: 2.5rem;
     line-height: 1.2em;
     letter-spacing: 0.5px;
 }

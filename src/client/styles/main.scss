@@ -47,6 +47,21 @@ h3
     @extend .h3-style;
 }
 
+h4
+{
+    @extend .h4-style;
+}
+
+h5
+{
+    @extend .h5-style;
+}
+
+h6
+{
+    @extend .h6-style;
+}
+
 p
 {
     @extend .p-style;
